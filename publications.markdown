@@ -24,6 +24,7 @@ permalink: /publications/
 1. M. Takeuchi, "Epidemic modeling of viral music diffusion", NetSciX (Poster; Abstract) 2020.
 
 ### Domestic conference
+1. 武内 慎, 佐野 幸恵 "Webサービス操作におけるバースト性の時間変化分析", 計算社会科学会, 2023.
 1. 武内 慎, 佐野 幸恵 "人の物理的活動のバースト性とその特徴付け", 2022年度日本物理学会秋季大会.
 1. 武内 慎, 佐野 幸恵 "人の物理的行動とオンライン上の行動のバースト性", ネットワーク科学研究会, 2022.
 1. 森下 壮一郎, 武内 慎 "多属性態度モデルに基づく音楽サービスの業種に対するロイヤルティの分析", 第36回人工知能学会全国大会(2022). [DOI: 10.11517/pjsai.JSAI2022.0_4N1GS305](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_4N1GS305/_article/-char/ja)
