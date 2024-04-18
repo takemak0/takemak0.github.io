@@ -7,6 +7,7 @@ permalink: /publications/
 
 ## Articles
 ### Journal articles (refereed)
+1. M. Takeuchi, Y. Sano, "Burstiness of human physical activities and their characterisation", Journal of Computational Social Science, 2024. [DOI: 10.1007/s42001-024-00247-w](https://doi.org/10.1007/s42001-024-00247-w)
 1. M. Takeuchi, S. Morishita and Y. Sano, "Music Roles Affect the Selection of Consumption Means: A Questionnaire Survey of People’s Expectations for Music and Exploratory Factor Analysis", The Review of Socionetwork Strategies, 2022. [DOI: 10.1007/s12626-022-00115-x](https://link.springer.com/article/10.1007/s12626-022-00115-x)
 
 ### Special invited paper
@@ -26,6 +27,8 @@ permalink: /publications/
 1. M. Takeuchi, "Epidemic modeling of viral music diffusion", NetSciX (Poster; Abstract) 2020.
 
 ### Domestic conference
+1. 武内 慎, 佐野 幸恵 "Kコア分解に基づく音声配信プラットフォームのソーシャルネットワーク分析", 第3回計算社会科学会大会, 2024.
+1. 武内 慎, 佐野 幸恵 "Webサービス操作のバースト性の時間変化分析", ネットワーク科学研究会, 2023.
 1. 武内 慎, 佐野 幸恵 "Webサービスの操作パターンと慣れの分析" 第37回人工知能学会全国大会(2023). [DOI: 10.11517/pjsai.JSAI2023.0_1T4GS401](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_1T4GS401/_article/-char/ja)
 1. 内藤 大貴, 佐野 幸恵, 森下 壮一郎, 武内 慎 "メディアコンテンツに対する興味への集合的記憶モデルの適用可能性", 第2回計算社会科学会大会, 2023.
 1. 武内 慎, 佐野 幸恵 "Webサービス操作におけるバースト性の時間変化分析", 第2回計算社会科学会大会, 2023.
